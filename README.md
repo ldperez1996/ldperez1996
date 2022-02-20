@@ -34,6 +34,9 @@ In recent years I have gained a lot of knowledge in various programming language
     <a href="https://www.java.com">
         <img src="https://raw.githubusercontent.com/ldperez1996/ColoredBadges/master/svg/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:4px">
     </a>
+    <a href="https://www.ruby-lang.org">
+        <img src="https://raw.githubusercontent.com/ldperez1996/ColoredBadges/master/svg/dev/languages/ruby.svg" alt="ruby" style="vertical-align:top; margin:4px">
+    </a>
 </p>
 
 <h3 align="center">Frameworks</h3>
