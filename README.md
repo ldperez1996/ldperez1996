@@ -79,9 +79,18 @@ In recent years I have gained a lot of knowledge in various programming language
 
 <p align="center"> &nbsp; <img  src="https://github-readme-streak-stats.herokuapp.com/?user=ldperez1996&hide_border=true&theme=radical&locale=en" alt="ldperez1996" /> </p>  
 
-<!--
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/https://dev.to/d4rk4ns" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/d4rk4ns" height="30" width="40" /></a> <a href="https://twitter.com/jonathanlrguez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jonathanlrguez" height="30" width="40" /></a> <a href="https://linkedin.com/in/https://www.linkedin.com/in/jonathan-luis-rodriguez/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jonathan-luis-rodriguez/" height="30" width="40" /></a> <a href="https://medium.com/@d4rk4n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@d4rk4n" height="30" width="40" /></a>
+    <a href="mailto:ldperez1996@gmail.com">
+        <img src="https://raw.githubusercontent.com/ldperez1996/ColoredBadges/prod/svg/social/gmail.svg" alt="gmail" style="vertical-align:top; margin:4px">
+    </a>
+    <a href="https://www.linkedin.com/in/luis-daniel-perez-rodriguez/">
+        <img src="https://raw.githubusercontent.com/ldperez1996/ColoredBadges/prod/svg/social/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:4px">
+    </a>
+    <a href="https://twitter.com/LuisD_Poison">
+        <img src="https://raw.githubusercontent.com/ldperez1996/ColoredBadges/prod/svg/social/twitter.svg" alt="twitter" style="vertical-align:top; margin:4px">
+    </a>
 </p>
--->
+
+
