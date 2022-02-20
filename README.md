@@ -6,7 +6,7 @@
 
 
 
-- 🌱 I’m currently learning **React, Next, Nest**
+- 🌱 I’m currently learning ****
 
 - 📫 How to reach me **ldperez1996@gmail.com**
 
@@ -20,55 +20,55 @@ In recent years I have gained a lot of knowledge in various programming language
 <h3 align="center">Languages</h3>
 <p align="center">
     <a href="https://www.w3schools.com/html">
-        <img src="https://raw.githubusercontent.com/d4rk4ns/ColoredBadges/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">
+        <img src="https://raw.githubusercontent.com/ldperez1996/ColoredBadges/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">
     </a>
     <a href="https://www.w3schools.com/css">
-        <img src="https://raw.githubusercontent.com/d4rk4ns/ColoredBadges/master/svg/dev/languages/css3.svg" alt="css3" style="vertical-align:top; margin:4px">
+        <img src="https://raw.githubusercontent.com/ldperez1996/ColoredBadges/master/svg/dev/languages/css3.svg" alt="css3" style="vertical-align:top; margin:4px">
     </a>
     <a href="https://www.w3schools.com/js">
-       <img src="https://raw.githubusercontent.com/d4rk4ns/ColoredBadges/master/svg/dev/languages/js.svg" alt="javascript" style="vertical-align:top; margin:4px">
+       <img src="https://raw.githubusercontent.com/ldperez1996/ColoredBadges/master/svg/dev/languages/js.svg" alt="javascript" style="vertical-align:top; margin:4px">
     </a>
     <a href="https://www.python.org">
-    <img src="https://raw.githubusercontent.com/d4rk4ns/ColoredBadges/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/ldperez1996/ColoredBadges/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
     </a>
     <a href="https://www.java.com">
-        <img src="https://raw.githubusercontent.com/d4rk4ns/ColoredBadges/master/svg/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:4px">
+        <img src="https://raw.githubusercontent.com/ldperez1996/ColoredBadges/master/svg/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:4px">
     </a>
 </p>
 
 <h3 align="center">Frameworks</h3>
 <p align="center">
      <a href="https://getbootstrap.com">
-        <img src="https://raw.githubusercontent.com/d4rk4ns/ColoredBadges/master/svg/dev/frameworks/bootstrap.svg" alt="bootstrap" style="vertical-align:top; margin:4px">
+        <img src="https://raw.githubusercontent.com/ldperez1996/ColoredBadges/master/svg/dev/frameworks/bootstrap.svg" alt="bootstrap" style="vertical-align:top; margin:4px">
     </a>
     <a href="https://materializecss.com/">
-        <img src="https://raw.githubusercontent.com/d4rk4ns/ColoredBadges/master/svg/dev/frameworks/materialize.svg" alt="materialize" style="vertical-align:top; margin:4px">
+        <img src="https://raw.githubusercontent.com/ldperez1996/ColoredBadges/master/svg/dev/frameworks/materialize.svg" alt="materialize" style="vertical-align:top; margin:4px">
     </a>
     <a href="https://jquery.com">
-        <img src="https://raw.githubusercontent.com/d4rk4ns/ColoredBadges/master/svg/dev/frameworks/jquery.svg" alt="jquery" style="vertical-align:top; margin:4px">
+        <img src="https://raw.githubusercontent.com/ldperez1996/ColoredBadges/master/svg/dev/frameworks/jquery.svg" alt="jquery" style="vertical-align:top; margin:4px">
     </a>
 </p>
 
 <h3 align="center">Services</h3>
 <p align="center">
     <a href="https://www.codewars.com">
-        <img src="https://github.com/ldperez1996/ColoredBadges/master/svg/dev/services/codewars.svg" alt="codewars" style="vertical-align:top; margin:4px">
+        <img src="https://raw.githubusercontent.com/ldperez1996/ColoredBadges/master/svg/dev/services/codewars.svg" alt="codewars" style="vertical-align:top; margin:4px">
     </a>
     <a href="https://www.hackerrank.com">
-        <img src="https://github.com/ldperez1996/ColoredBadges/master/svg/dev/services/hackerrank.svg" alt="hackerrank" style="vertical-align:top; margin:4px">
+        <img src="https://raw.githubusercontent.com/ldperez1996/ColoredBadges/master/svg/dev/services/hackerrank.svg" alt="hackerrank" style="vertical-align:top; margin:4px">
     </a>
 </p>
 
 <h3 align="center">Tools</h3>
 <p align="center">
     <a href="https://code.visualstudio.com">
-        <img src="https://github.com/ldperez1996/ColoredBadges/master/svg/dev/tools/visualstudio_code.svg" alt="visualstudio_code" style="vertical-align:top; margin:4px">
+        <img src="https://raw.githubusercontent.com/ldperez1996/ColoredBadges/master/svg/dev/tools/visualstudio_code.svg" alt="visualstudio_code" style="vertical-align:top; margin:4px">
     </a>
     <a href="https://www.jetbrains.com/en-en/ruby/">
-        <img src="https://github.com/ldperez1996/ColoredBadges/master/svg/dev/tools/jetbrains_rubymine.svg" alt="jetbrains_rubymine" style="vertical-align:top; margin:4px">
+        <img src="https://raw.githubusercontent.com/ldperez1996/ColoredBadges/master/svg/dev/tools/jetbrains_rubymine.svg" alt="jetbrains_rubymine" style="vertical-align:top; margin:4px">
     </a>
    <a href="https://git-scm.com">
-        <img src="https://github.com/ldperez1996/ColoredBadges/prod/svg/dev/tools/git.svg" alt="git" style="vertical-align:top; margin:4px">
+        <img src="https://raw.githubusercontent.com/ldperez1996/ColoredBadges/prod/svg/dev/tools/git.svg" alt="git" style="vertical-align:top; margin:4px">
     </a>
 </p>
 
