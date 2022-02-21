@@ -41,7 +41,9 @@ In recent years I have gained a lot of knowledge in various programming language
 
 <h3 align="center">Frameworks</h3>
 <p align="center">
-     <a href="https://getbootstrap.com">
+    <a href="http://rubyonrails.com">
+        <img src="https://raw.githubusercontent.com/ldperez1996/ColoredBadges/master/svg/dev/frameworks/rubyonrails.svg" alt="bootstrap" style="vertical-align:top; margin:4px"> 
+    <a href="https://getbootstrap.com">
         <img src="https://raw.githubusercontent.com/ldperez1996/ColoredBadges/master/svg/dev/frameworks/bootstrap.svg" alt="bootstrap" style="vertical-align:top; margin:4px">
     </a>
     <a href="https://materializecss.com/">
