@@ -28,14 +28,14 @@ In recent years I have gained a lot of knowledge in various programming language
     <a href="https://www.w3schools.com/js">
        <img src="https://raw.githubusercontent.com/ldperez1996/ColoredBadges/master/svg/dev/languages/js.svg" alt="javascript" style="vertical-align:top; margin:4px">
     </a>
+    <a href="https://www.ruby-lang.org">
+        <img src="https://raw.githubusercontent.com/ldperez1996/ColoredBadges/master/svg/dev/languages/ruby.svg" alt="ruby" style="vertical-align:top; margin:4px">
+    </a>
     <a href="https://www.python.org">
     <img src="https://raw.githubusercontent.com/ldperez1996/ColoredBadges/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
     </a>
     <a href="https://www.java.com">
         <img src="https://raw.githubusercontent.com/ldperez1996/ColoredBadges/master/svg/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:4px">
-    </a>
-    <a href="https://www.ruby-lang.org">
-        <img src="https://raw.githubusercontent.com/ldperez1996/ColoredBadges/master/svg/dev/languages/ruby.svg" alt="ruby" style="vertical-align:top; margin:4px">
     </a>
 </p>
 
@@ -66,13 +66,13 @@ In recent years I have gained a lot of knowledge in various programming language
 
 <h3 align="center">Tools</h3>
 <p align="center">
-    <a href="https://code.visualstudio.com">
-        <img src="https://raw.githubusercontent.com/ldperez1996/ColoredBadges/master/svg/dev/tools/visualstudio_code.svg" alt="visualstudio_code" style="vertical-align:top; margin:4px">
-    </a>
     <a href="https://www.jetbrains.com/en-en/ruby/">
         <img src="https://raw.githubusercontent.com/ldperez1996/ColoredBadges/master/svg/dev/tools/jetbrains_rubymine.svg" alt="jetbrains_rubymine" style="vertical-align:top; margin:4px">
     </a>
-   <a href="https://git-scm.com">
+    <a href="https://code.visualstudio.com">
+        <img src="https://raw.githubusercontent.com/ldperez1996/ColoredBadges/master/svg/dev/tools/visualstudio_code.svg" alt="visualstudio_code" style="vertical-align:top; margin:4px">
+    </a>
+    <a href="https://git-scm.com">
         <img src="https://raw.githubusercontent.com/ldperez1996/ColoredBadges/prod/svg/dev/tools/git.svg" alt="git" style="vertical-align:top; margin:4px">
     </a>
 </p>
